@@ -4,7 +4,7 @@
 
 firebase-tools: v13.5.1<br>
 node: v20.12.2<br>
-platform: Sonoma 14.5
+platform: macOS Sonoma 14.5
 
 ## Steps to reproduce
 
